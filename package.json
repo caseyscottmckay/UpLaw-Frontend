@@ -1,0 +1,31 @@
+{
+  "name": "uplaw-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "antd": "^3.2.2",
+    "axios": "^0.19.0",
+    "flow": "^0.2.3",
+    "link": "^0.1.5",
+    "package.json": "^2.0.1",
+    "prop-types": "^15.6.0",
+    "react": "^16.5.2",
+    "react-bootstrap": "^1.0.0-beta.16",
+    "react-dom": "^16.5.2",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.5",
+    "uuid": "^3.1.0"
+  },
+  "scripts": {
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build",
+    "test": "react-app-rewired test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "babel-plugin-import": "^1.6.5",
+    "react-app-rewire-less": "^2.1.0",
+    "react-app-rewired": "^1.4.1"
+  }
+}
+
