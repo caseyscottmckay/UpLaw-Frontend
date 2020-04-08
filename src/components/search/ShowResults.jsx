@@ -81,8 +81,6 @@ export default class ShowResults extends Component {
             })
           }
         </Row>
-
-
       </div>
     )
   }
